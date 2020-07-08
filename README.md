@@ -10,6 +10,5 @@ Module-3: Shallow neural networks
 ### Week-4:- 
 Module-4: Deep Neural Networks
 
-Hope these programming assignment solutions will help...! <br />
-Just open and run directly in android studio.
+Hope these quizzes and programming assignment solutions will help...!
 
